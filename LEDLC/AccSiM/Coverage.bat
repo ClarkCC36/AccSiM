@@ -1,0 +1,3 @@
+CovTest.exe
+
+pause
